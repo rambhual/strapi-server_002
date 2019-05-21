@@ -1,0 +1,21 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "cluster0-rkmr0.mongodb.net",
+        "port": 27017,
+        "database": "server",
+        "username": "ramprit",
+        "password": "ramprit1234",
+        "srv": true
+      },
+      "options": {
+        "authenticationDatabase": "admin",
+        "ssl": true
+      }
+    }
+  }
+}
