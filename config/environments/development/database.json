@@ -5,11 +5,11 @@
       "connector": "strapi-hook-mongoose",
       "settings": {
         "client": "mongo",
-        "host": "cluster0-rkmr0.mongodb.net",
+        "host": "gatsby-starter-g9mee.mongodb.net",
         "port": 27017,
-        "database": "server",
+        "database": "reviews",
         "username": "ramprit",
-        "password": "I9GxdInnv9srjx3m",
+        "password": "kTp1kkw6gDAzICMG",
         "srv": true
       },
       "options": {
